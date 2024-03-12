@@ -15,7 +15,7 @@
      - VPC ID, Subnet ID, Security group ID, KeyPair Name.
 
 ## Table Of Contents
-* [Lab-1: Creating an EC2 Instance in AWS and Installing Terraform]
+* [Lab-1: Creating an EC2 Instance in AWS and Installing Terraform](https://github.com/AmitKumaDas/Terraform-Essentials-Labs/blob/main/README.md#creating-an-ec2-instance-in-aws-and-installing-terraform)
 * [Lab-2: AWS EC2 instance creation using Terraform Variables]
 * [Lab-3: Using Output Feature]
 * [Lab-4: Understanding local values, functions and data sources]
