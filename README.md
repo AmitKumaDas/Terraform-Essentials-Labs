@@ -29,7 +29,7 @@
 * [Frequently used Terraform Commands with Explanation](
 * [Reference Links]
 
-## Creating an EC2 Instance in AWS and Installing Terraform
+## Lab-1: Creating an EC2 Instance in AWS and Installing Terraform
 
 To begin, log in to AWS Console.
 
@@ -246,7 +246,7 @@ cd ~
 rm -rf EC2-lab
 ```
 
-## AWS EC2 instance creation using Terraform Variables
+## Lab-2: AWS EC2 instance creation using Terraform Variables
 
 
 ### Task-1: Create EC2 instance using variables 
