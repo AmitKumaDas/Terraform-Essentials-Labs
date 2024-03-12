@@ -16,7 +16,7 @@
 
 ## Table Of Contents
 * [Lab-1: Creating an EC2 Instance in AWS and Installing Terraform](https://github.com/AmitKumaDas/Terraform-Essentials-Labs/blob/main/README.md#lab-1-creating-an-ec2-instance-in-aws-and-installing-terraform)
-* [Lab-2: AWS EC2 instance creation using Terraform Variables]
+* [Lab-2: AWS EC2 instance creation using Terraform Variables](https://github.com/AmitKumaDas/Terraform-Essentials-Labs/blob/main/README.md#lab-2-aws-ec2-instance-creation-using-terraform-variables)
 * [Lab-3: Using Output Feature]
 * [Lab-4: Understanding local values, functions and data sources]
 * [Lab-5: Remote State using Amazon Simple Storage Service]
