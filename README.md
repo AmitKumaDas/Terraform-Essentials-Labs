@@ -19,7 +19,7 @@
 * [Lab-2: AWS EC2 instance creation using Terraform Variables](https://github.com/AmitKumaDas/Terraform-Essentials-Labs/blob/main/README.md#lab-2-aws-ec2-instance-creation-using-terraform-variables)
 * [Lab-3: Using Output Feature](https://github.com/AmitKumaDas/Terraform-Essentials-Labs/blob/main/README.md#lab-3-using-output-feature)
 * [Lab-4: Understanding local values, functions and data sources](https://github.com/AmitKumaDas/Terraform-Essentials-Labs/blob/main/README.md#lab-4-understanding-local-values-functions-and-data-sources)
-* [Lab-5: Remote State using Amazon Simple Storage Service]
+* [Lab-5: Remote State using Amazon Simple Storage Service](https://github.com/AmitKumaDas/Terraform-Essentials-Labs/blob/main/README.md#lab-5-remote-state-using-amazon-simple-storage-service)
 * [Lab-6: Launching VPC and EC2 Instance]
 * [Lab-7: Launching Auto-Scaling services]
 * [Lab-8: Creating IAM Users, Groups using Terraform.]
